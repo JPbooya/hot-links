@@ -5,6 +5,11 @@
 
 A recipe of sweet, half-moon-shaped dumplings with cherry.
 
+## [Classic Coffee Cake](https://www.simplyrecipes.com/recipes/classic_coffee_cake/)
+[Archived Link](https://web.archive.org/web/20260303203248/https://www.simplyrecipes.com/recipes/classic_coffee_cake/)
+
+A recipe of a class coffee cake.
+
 ## [Crustless Quiche with Spinach and Mushrooms](https://www.themediterraneandish.com/mushroom-spinach-crustless-quiche/)
 [Archived Link](https://web.archive.org/web/20240802010738/https://www.themediterraneandish.com/mushroom-spinach-crustless-quiche/)
 
@@ -19,3 +24,4 @@ An easy recipe to make delicious Potato Puncakes, Draniki!
 [Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 
 My grandmas mississippi mud recipe is a lot different. This one has marshmallows?
+
