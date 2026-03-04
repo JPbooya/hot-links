@@ -1,5 +1,8 @@
 # Learning to Code
 
+## [Github Education Pack](https://github.com/education/students)
+[Archived Link](https://web.archive.org/web/20260302074743/https://github.com/education/students)
+
 ## [Learn Git Branching](https://learngitbranching.js.org/)
 [Archived Link](https://web.archive.org/web/20241009005453/https://learngitbranching.js.org/)
 
