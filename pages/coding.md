@@ -3,6 +3,8 @@
 ## [Github Education Pack](https://github.com/education/students)
 [Archived Link](https://web.archive.org/web/20260302074743/https://github.com/education/students)
 
+A github education program for building software with alot of resources and tools provided.
+
 ## [Learn Git Branching](https://learngitbranching.js.org/)
 [Archived Link](https://web.archive.org/web/20241009005453/https://learngitbranching.js.org/)
 
